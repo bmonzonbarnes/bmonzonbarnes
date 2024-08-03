@@ -1,0 +1,4 @@
+- 👋 Welcome to my journey, I’m @bmonzonbarnes
+- I'm currently going through courses on The Odin Project and FreeCodeCamp.
+- I will continue adding to my Github as my programming journey continues to flourish.
+- My favorite animal is a koala and my favorite food is gnocchi. 
